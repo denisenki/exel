@@ -1,0 +1,8 @@
+webpack (import/exports)
+    Babel
+    Scss
+    Eslint
+    2 Modes - Dev(Server, SourseMaps,Eslint,Node Minifided JS & CSS), Prod - Minifided Code
+git
+
+Новые изменения
